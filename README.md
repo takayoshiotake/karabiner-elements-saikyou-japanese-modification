@@ -2,7 +2,7 @@
 
 **Import into Karabiner-Elements:**
 
-🔗 <karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/takayoshiotake/karabiner-elements-saikyou-japanese-modification/main/saikyou_japanese_modification.json>
+🔗 <karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/takayoshiotake/karabiner-elements-saikyou-japanese-modification/main/saikyou-japanese-modification.json>
 
 ## Function Keys
 
